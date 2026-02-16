@@ -1,4 +1,3 @@
-import React from 'react';
 
 
 export default function AddItem({ addTask, inputval, editing, setInputval }) {

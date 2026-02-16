@@ -1,5 +1,4 @@
 import { useState } from "react";
-import Counter from "./Components/counter/Counter.jsx";
 import AddItem from "./Components/todolist/AddItem.jsx";
 import ItemList from "./Components/todolist/ItemList.jsx";
 
@@ -8,7 +7,7 @@ function App() {
   const [idItem, setIdItem] = useState(null);
   const [inputval, setInputval] = useState("");
   const [editing, setEditing] = useState(false);
-  const [isChecked, setIsChecked] = useState(false);
+  const [isChecked] = useState(false);
 
   const addTask = (e) => {
     e.preventDefault();

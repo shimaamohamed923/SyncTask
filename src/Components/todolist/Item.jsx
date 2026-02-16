@@ -1,6 +1,4 @@
-import React, { useState } from "react";
-import deleteico from "../../img/deleteico.svg";
-import edit from "../../img/edit.svg";
+import React from "react";
 
 export default function TodoItem({ task, deleteTask, handleEdit, isChecked, handleCheckboxChange }) {
 

@@ -8,6 +8,12 @@
 
 ---
 
+## 🚀 Demo Video
+
+https://github.com/user-attachments/assets/55e140d1-e1ff-4045-aa9b-1f2364f8621b
+
+---
+
 ## ✨ Key Features
 
 - **Dynamic State Management:** Implements "Lifting State Up" to ensure data consistency across components.
@@ -33,6 +39,10 @@ This project demonstrates a deep understanding of React's **Unidirectional Data 
 1. **App.js:** Holds the "Source of Truth" (Central State).
 2. **ItemList.js:** Acts as a bridge, mapping data to child components.
 3. **Item.js:** Handles user interactions and communicates changes back to the parent via prop callbacks.
+
+
+
+https://github.com/user-attachments/assets/6a3d0e7d-7060-49cd-bfec-8f729b206658
 
 
 

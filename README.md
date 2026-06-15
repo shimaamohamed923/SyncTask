@@ -40,12 +40,6 @@ This project demonstrates a deep understanding of React's **Unidirectional Data 
 2. **ItemList.js:** Acts as a bridge, mapping data to child components.
 3. **Item.js:** Handles user interactions and communicates changes back to the parent via prop callbacks.
 
-
-
-https://github.com/user-attachments/assets/6a3d0e7d-7060-49cd-bfec-8f729b206658
-
-
-
 ---
 
 ## 🚀 How to Run
